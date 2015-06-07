@@ -1,0 +1,9 @@
+################INSTRUCTIONS########################
+
+if car arrival user has to input - a(space)Number plate
+if car depart user has to input - d(space)Number plate
+
+GUI create with Tkinter
+Comments are there!
+
+########### ENJOY IT! ########################
